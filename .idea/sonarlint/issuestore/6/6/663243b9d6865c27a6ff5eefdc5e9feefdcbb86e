@@ -1,17 +1,0 @@
-
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ‹ü‚üÿÿÿÿ
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—”àÚýÿÿÿÿ
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨î½®
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÃ–³ÿÿÿÿÿ
-Q
-java:S1854";Remove this useless assignment to local variable "cliente".(Ö’«®
-Q	java:S125"<This block of commented-out lines of code should be removed.(ðáæ€
-B
-java:S1481",Remove this unused "cliente" local variable.(Ö’«®
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‡Üø»üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(œõ÷…üÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ä„þî
