@@ -1,0 +1,11 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "cc3".(ñáüúÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "nomes".(€•ÃĞüÿÿÿÿ
+E
+java:S1481"*Remove this unused "nomes" local variable.(€•ÃĞüÿÿÿÿ
+C
+java:S1481"(Remove this unused "cc3" local variable.(ñáüúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ“¸´
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ

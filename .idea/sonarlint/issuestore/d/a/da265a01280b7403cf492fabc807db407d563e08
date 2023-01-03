@@ -1,0 +1,5 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àüÿú8½´øÞÒ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¢‘ë8ÏŸûÞÒ0
+[
+java:S1128"?Remove this unused import 'br.com.bytebank.banco.modelo.Conta'.(Ç™Ó8–‡«ßÒ0
